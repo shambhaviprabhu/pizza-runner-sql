@@ -87,3 +87,7 @@ Contains four analytical query scripts.
 - Use `data-cleaning/1_Data_cleaning_transforming.sql` to generate cleaned views and facts needed by the analysis scripts.
 - The `data-analysis` scripts assume the existence of the cleaned views and final order tables created in the data cleaning step.
 - `select-queries/select-pizza.sql` is a quick sanity check to inspect raw table contents.
+
+
+
+
